@@ -1,6 +1,6 @@
-# RiskLens 🔎
+# RiskScope 🔎
 
-**RiskLens** is a free, zero-cost portfolio risk analytics dashboard inspired by institutional tools like BlackRock's Aladdin platform. It allows users to assess the historical risk and performance of a custom portfolio without needing a database, paid APIs, or server costs. 
+**RiskScope** is a free, zero-cost portfolio risk analytics dashboard inspired by institutional tools like BlackRock's Aladdin platform. It allows users to assess the historical risk and performance of a custom portfolio without needing a database, paid APIs, or server costs. 
 
 This project demonstrates strong risk management principles and software engineering practices by building a robust risk analytics infrastructure entirely on open-source and free tools.
 
@@ -27,8 +27,8 @@ This project demonstrates strong risk management principles and software enginee
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/risklens.git
-   cd risklens
+   git clone https://github.com/yourusername/riskscope.git
+   cd riskscope
    ```
 
 2. **Create a virtual environment:**

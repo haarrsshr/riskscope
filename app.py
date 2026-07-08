@@ -11,7 +11,7 @@ import warnings
 # Suppress yfinance warnings for cleaner output
 warnings.filterwarnings('ignore')
 
-st.set_page_config(page_title="RiskLens", layout="wide", page_icon="🔎")
+st.set_page_config(page_title="RiskScope", layout="wide", page_icon="🔎")
 
 # --- Helper functions ---
 
@@ -124,7 +124,7 @@ def annualized_return(daily_returns):
 
 # --- Main App ---
 
-st.title("RiskLens 🔎")
+st.title("RiskScope 🔎")
 st.subheader("Zero-Cost Portfolio Risk Analytics Dashboard")
 
 # Sidebar
