@@ -25,13 +25,7 @@ This project demonstrates strong risk management principles and software enginee
 
 ## Local Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/riskscope.git
-   cd riskscope
-   ```
-
-2. **Create a virtual environment:**
+1. **Create a virtual environment:**
    ```bash
    python -m venv venv
    # On macOS/Linux:
@@ -40,12 +34,12 @@ This project demonstrates strong risk management principles and software enginee
    venv\Scripts\activate
    ```
 
-3. **Install dependencies:**
+2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the dashboard:**
+3. **Run the dashboard:**
    ```bash
    streamlit run app.py
    ```
